@@ -24,6 +24,7 @@
     <modules>
         <module>QuickStart</module>
         <module>ConfigurationFiles</module>
+        <module>RabbitMQ</module>
     </modules>
 
 </project>
