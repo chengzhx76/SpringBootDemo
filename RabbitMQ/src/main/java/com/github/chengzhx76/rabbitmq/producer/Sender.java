@@ -18,6 +18,6 @@ public class Sender {
     public void send(String random) {
 //        String context = "hello " + System.currentTimeMillis();
 //        System.out.println("Sender : " + context);
-        this.rabbitTemplate.convertAndSend("hello", random);
+        rabbitTemplate.convertAndSend("hello", random);
     }
 }
