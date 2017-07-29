@@ -1,6 +1,6 @@
-package com.chengzhx76.github.controller;
+package com.github.chengzhx76.controller;
 
-import com.chengzhx76.github.model.ConfigModel;
+import com.github.chengzhx76.model.ConfigModel;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.RequestMapping;

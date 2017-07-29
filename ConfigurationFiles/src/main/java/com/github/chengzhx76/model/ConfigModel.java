@@ -1,4 +1,4 @@
-package com.chengzhx76.github.model;
+package com.github.chengzhx76.model;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;

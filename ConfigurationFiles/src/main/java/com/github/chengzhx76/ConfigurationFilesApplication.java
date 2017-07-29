@@ -1,4 +1,4 @@
-package com.chengzhx76.github;
+package com.github.chengzhx76;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,8 +9,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * Date: 2017/7/17
  */
 @SpringBootApplication
-public class QuickStartApplication {
+public class ConfigurationFilesApplication {
+
     public static void main(String[] args) {
-        SpringApplication.run(QuickStartApplication.class, args);
+        SpringApplication.run(ConfigurationFilesApplication.class, args);
     }
 }
