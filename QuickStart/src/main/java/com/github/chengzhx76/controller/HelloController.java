@@ -1,4 +1,4 @@
-package com.chengzhx76.github.controller;
+package com.github.chengzhx76.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
