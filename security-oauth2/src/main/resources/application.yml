@@ -9,8 +9,9 @@ spring:
 #    password: root
 #    driver-class-name: net.sf.log4jdbc.DriverSpy
   redis:
-    host: 127.0.0.1
+    host: 115.29.47.207
     database: 0
+    port: 6677
 #  jpa:
 #    hibernate:
 #      ddl-auto: none
@@ -20,7 +21,11 @@ spring:
 #    jdbc: error
 #    jdbc.sqltiming: info
 
-security:
-  oauth2:
-    resource:
-      filter-order: 3
+logging:
+  level:
+    org.springframework: DEBUG
+
+#security:
+#  oauth2:
+#    resource:
+#      filter-order: 3
