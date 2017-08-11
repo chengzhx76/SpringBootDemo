@@ -25,6 +25,7 @@
         <module>QuickStart</module>
         <module>ConfigurationFiles</module>
         <module>RabbitMQ</module>
+        <module>security-oauth2</module>
     </modules>
 
 </project>
