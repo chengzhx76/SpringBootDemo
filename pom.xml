@@ -26,6 +26,7 @@
         <module>ConfigurationFiles</module>
         <module>RabbitMQ</module>
         <module>security-oauth2</module>
+        <module>Redis</module>
     </modules>
 
 </project>
